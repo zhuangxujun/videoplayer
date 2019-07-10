@@ -1,0 +1,57 @@
+
+asquid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(Š’–K
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë–ŠÈøÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheckî""Add a default case to this switch.(¥é¸ì
+csquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(Î²ÖÒ
+hsquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(Ï°ˆªúÿÿÿÿ
+Gsquid:S1066´"/Merge this if statement with the enclosing one.(ˆôÎ
+osquid:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¿£ú½ùÿÿÿÿ
+Gsquid:S00108ˆ	")Either remove or fill this block of code.(¥ÊÅóüÿÿÿÿ
+Lsquid:S1066É"/Merge this if statement with the enclosing one.(ïì­çüÿÿÿÿ
+isquid:S3457ø"Q%n should be used in place of \n to produce the platform-specific line separator.(ÿ´ò•
+e
+squid:S899¯
+"BDo something with the "boolean" value returned by "createNewFile".(´ÇÛûÿÿÿÿ8íÿå ½-
+Jsquid:S1075™
+"&Remove this hard-coded path-delimiter.(‘ÑÅ”şÿÿÿÿ8ÁÜÅ ½-
+:squid:S3626·
+"Remove this redundant jump.(ûÁİ…8–¨“¡½-
+Jsquid:S1075™
+"&Remove this hard-coded path-delimiter.(‘ÑÅ”şÿÿÿÿ8ÁÜÅ ½-
+osquid:S00117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğôç¦şÿÿÿÿ
+Ysquid:S2209•"5Change this instance-reference to a static reference.(àè÷øÿÿÿÿ8ÁÜÅ ½-
+hsquid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(úšâÿşÿÿÿÿ
+jsquid:S3776å"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ö–¼‹
+Usquid:S1197ô"8Move the array designator from the variable to the type.(Ã²›Ìÿÿÿÿÿ
+Jsquid:S1199‘"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
+osquid:S00117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¸£Úùÿÿÿÿ
+jsquid:S00117¹	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É•ËË
+Dsquid:S1199†"-Extract this nested code block into a method.(„˜ÛQ
+Xsquid:S1854É";Remove this useless assignment to local variable "context".(•ÅŸıûÿÿÿÿ
+Jsquid:S1199ç"-Extract this nested code block into a method.(Ç»¦£ıÿÿÿÿ
+hsquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(¬Æ÷–ùÿÿÿÿ
+fsquid:S00116I"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üœå­
+Vsquid:S3516"9Refactor this method to not always return the same value.(ë–ŠÈøÿÿÿÿ
+Csquid:S1481²"&Remove this unused "r" local variable.(óÔÆáüÿÿÿÿ
+]squid:UselessImportCheck7"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ
+Lsquid:S1199‹"-Extract this nested code block into a method.(ßó»8ÁÜÅ ½-
+nsquid:CommentedOutCodeLiney"<This block of commented-out lines of code should be removed.(Í”ˆõıÿÿÿÿ8ÁÜÅ ½-
+Xsquid:UselessImportCheck6"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã
+bsquid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(Šêî±
+Rsquid:S1854²"5Remove this useless assignment to local variable "r".(óÔÆáüÿÿÿÿ
+hsquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(‘¥Àõúÿÿÿÿ
+bsquid:S2147ô"ECombine this catch with the one at line 367, which has the same body.(«ÇÕúÿÿÿÿ
+asquid:UselessImportCheck+"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8Ò››¡½-
+jsquid:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ë¨·¶
+jsquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(Æ¶ñ8ÁÜÅ ½-
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë–ŠÈøÿÿÿÿ
+Gsquid:S1148¶
+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8íÿå ½-
+Osquid:S1135Ç"2Complete the task associated to this TODO comment.(å¢äŸûÿÿÿÿ
+csquid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.(ñìÁ
+>squid:S1168ä	"&Return an empty array instead of null.(¥¹ï
+qsquid:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(èùü
+Isquid:S1481É",Remove this unused "context" local variable.(•ÅŸıûÿÿÿÿ
+Lsquid:S1066§"/Merge this if statement with the enclosing one.(ã¸ÏÆıÿÿÿÿ
+csquid:CommentedOutCodeLineİ"<This block of commented-out lines of code should be removed.(ñìÁ
+Jsquid:S1199ò"-Extract this nested code block into a method.(Œˆüâıÿÿÿÿ

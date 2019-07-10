@@ -1,0 +1,25 @@
+
+hsquid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(ùû˜ùÿÿÿÿ
+€squid:UselessImportCheck "WRemove this unused import 'tv.danmaku.ijk.media.example.widget.media.IMediaController'.(ÓÉæåÿÿÿÿÿ
+Bsquid:S16594"+Declare "mPrevListener" on a separate line.(øäÙ
+Isquid:S1068"1Remove this unused "mFfwdListener" private field.(úæ°ß
+Msquid:S1068‘"0Remove this unused "mRewListener" private field.(øÿžŽþÿÿÿÿ
+Jsquid:S10681"3Remove this unused "mUseFastForward" private field.(Ø…÷Þ
+Gsquid:S1066«"/Merge this if statement with the enclosing one.(”¾Èé
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(þª®çúÿÿÿÿ
+Osquid:S1135”"2Complete the task associated to this TODO comment.(ÅÝÒ³ÿÿÿÿÿ
+@squid:S1659-"*Declare "mCurrentTime" on a separate line.(Àš¾6
+Zsquid:UselessImportCheck"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ
+Osquid:S1135»"2Complete the task associated to this TODO comment.(øÿâìÿÿÿÿÿ
+rsquid:S001150"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(úûÚÂ
+usquid:UselessImportCheck"LRemove this unused import 'android.view.accessibility.AccessibilityManager'.(ÎÙŒ©üÿÿÿÿ
+isquid:UselessImportCheck"@Remove this unused import 'android.support.annotation.Nullable'.(Ö‹øïüÿÿÿÿ
+ssquid:S14503"\Remove the "mListenersSet" field and declare it as a local variable in the relevant methods.(Äœú¾
+hsquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(øÿâìÿÿÿÿÿ
+vsquid:S1450:"ZRemove the "mShotButton" field and declare it as a local variable in the relevant methods.(Êíêûÿÿÿÿ
+hsquid:CommentedOutCodeLineù"<This block of commented-out lines of code should be removed.(’Œòÿÿÿÿÿ
+hsquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(ðß¬úÿÿÿÿ
+jsquid:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(”Ÿ•œ
+?squid:S1148c"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Hsquid:S10683"1Remove this unused "mListenersSet" private field.(Äœú¾
+bsquid:UselessImportCheck"?Remove this unused import 'android.support.annotation.NonNull'.(¼Åß

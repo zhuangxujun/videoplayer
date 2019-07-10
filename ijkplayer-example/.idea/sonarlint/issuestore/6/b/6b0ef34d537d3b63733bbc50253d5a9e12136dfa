@@ -1,0 +1,4 @@
+
+М"squid:ClassVariableVisibilityCheckЗ"XMake mUrlTextView a static final constant or non-public and provide accessors if needed.(юЅЯ±€€€€€
+Н"squid:ClassVariableVisibilityCheckЖ"YMake mNameTextView a static final constant or non-public and provide accessors if needed.(є≠чќэ€€€€
+usquid:S1488)"YImmediately return this expression instead of assigning it to the temporary variable "f".(…йїью€€€€

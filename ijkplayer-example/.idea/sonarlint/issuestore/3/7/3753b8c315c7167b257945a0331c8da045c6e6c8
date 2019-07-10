@@ -1,0 +1,5 @@
+
+Tsquid:S1197U"8Move the array designator from the variable to the type.(½¦Æùÿÿÿÿ
+Vsquid:S1118M":Add a private constructor to hide the implicit public one.(‘±¾×üÿÿÿÿ
+squid:S1186p"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÄÜ»ûÿÿÿÿ
+9squid:S2386U"Make this member "protected".(½¦Æùÿÿÿÿ

@@ -1,0 +1,6 @@
+
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(â•™ç
+Psquid:S21301"9Use "Integer.parseInt" for this string-to-int conversion.(ö£™½
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Íş˜şÿÿÿÿ
+wsquid:S00115 "ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ìĞâÎúÿÿÿÿ
+wsquid:S00115!"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™…†šøÿÿÿÿ

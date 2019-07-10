@@ -1,0 +1,8 @@
+
+U"squid:SwitchLastCaseIsDefaultCheck@""Add a default case to this switch.(×ö³–úÿÿÿÿ
+Osquid:S1197?"8Move the array designator from the variable to the type.(¯ÜÑñ
+rsquid:S3923B"[Remove this conditional structure or edit its code blocks so that they're not all the same.(©§¹
+Isquid:S1199A"-Extract this nested code block into a method.(’ÈĞ§ûÿÿÿÿ
+gsquid:S1301@"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+Nsquid:S11355"2Complete the task associated to this TODO comment.(¹ãï‘ùÿÿÿÿ
+jsquid:MaximumInheritanceDepth%"<This class has 6 parents which is greater than 5 authorized.(€´¾äúÿÿÿÿ

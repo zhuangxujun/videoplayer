@@ -1,0 +1,8 @@
+
+>squid:S1168í"&Return an empty array instead of null.(¥¹ï
+ssquid:S1450?"WRemove the "mHudView" field and declare it as a local variable in the relevant methods.(¾ú÷Ïıÿÿÿÿ
+Dsquid:S1068C"-Remove this unused "mSettings" private field.(¼Ñ“†
+psquid:S14509"YRemove the "mVideoPath" field and declare it as a local variable in the relevant methods.(ÊÖş¶
+lsquid:MaximumInheritanceDepth6"<This class has 6 parents which is greater than 5 authorized.(»æŸÖ8®µË£½-
+nsquid:S3776R"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¨Œşÿÿÿÿ
+osquid:S1450C"XRemove the "mSettings" field and declare it as a local variable in the relevant methods.(¼Ñ“†
