@@ -4,8 +4,8 @@ import android.content.Context;
 import android.content.res.Resources;
 import android.graphics.PixelFormat;
 import android.media.AudioManager;
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.view.Gravity;
@@ -16,20 +16,17 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.Window;
 import android.view.WindowManager;
-import android.view.accessibility.AccessibilityManager;
 import android.widget.FrameLayout;
 import android.widget.ImageButton;
 import android.widget.ProgressBar;
 import android.widget.SeekBar;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import java.lang.reflect.Constructor;
 import java.util.Formatter;
 import java.util.Locale;
 
 import tv.danmaku.ijk.media.example.R;
-import tv.danmaku.ijk.media.example.widget.media.IMediaController;
 
 
 public class LiveMediaController extends FrameLayout {
